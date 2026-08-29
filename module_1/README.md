@@ -111,7 +111,7 @@ Pick the right model for each job and budget your AI spend with intent.
 - [ ] Add teachers & fellow students on linkedin
 - [ ] Continue editing your Claude Artifact from Saturday's class via prompts or VSCode and Publish on GitHub as a GitHub page (ask AI for help as needed!)
 - [ ] Watch these 2 videos about Data Foundations (with your kids if applicable!) 
-*[x] [Data and Graphs](https://www.youtube.com/watch?v=hcgThf5mv38&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2&t=1s)
-*[x] [Mean, Median, and Mode](https://www.youtube.com/watch?v=B1HEzNTGeZ4&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2) 
+-[x] [Data and Graphs](https://www.youtube.com/watch?v=hcgThf5mv38&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2&t=1s)
+-[x] [Mean, Median, and Mode](https://www.youtube.com/watch?v=B1HEzNTGeZ4&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2) 
       
 

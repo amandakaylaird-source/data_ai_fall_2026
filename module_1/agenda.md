@@ -33,7 +33,7 @@
   - Q&A on logistics
 
 - **:octocat: GitHub Check-in** (5 mins) 
-  - https://claude.ai/chat/c2d6e392-fd62-4712-9acb-7a03732f6f21
+  - https://claude.ai/public/artifacts/222f959d-ba8d-448d-bebc-58982f71ab82
 
 - **📊 Lecture: Data Foundations** (25 min)
 

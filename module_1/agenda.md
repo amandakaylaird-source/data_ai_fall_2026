@@ -37,6 +37,8 @@
 
 - **📊 Lecture: Data Foundations** (25 min)
 
+- https://docs.google.com/presentation/d/12o2pVmQRqLm_MYNo5l44P8OYIloaoAEK6sPUB-6LrqY/edit?usp=sharing
+
  - How to read a chart (title, axes, legend, data labels, scale, source)
 
 - [ ] **Overview of Common Visualizations:**

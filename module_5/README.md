@@ -69,7 +69,7 @@ _Estimated time to complete: 30 minutes_
 - [x] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 - [x] Check out this "data scrollstory" - [The Pixar Story](https://pixar-scroll-tale.lovable.app/)
 - [x] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
-- [ ] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
+- [x] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
 
 ### Assignment - Complete by class Saturday, October 10th
 

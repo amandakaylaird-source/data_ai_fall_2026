@@ -59,7 +59,7 @@ _Estimated time to complete: 1.5 hours_
 
 - [X] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w)
 - [x] Watch video [How to Turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
-- [ ] Watch Kelsey's video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
+- [x] Watch Kelsey's video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
 
 ### Additional Resources
 

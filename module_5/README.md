@@ -66,7 +66,7 @@ _Estimated time to complete: 1.5 hours_
 _Estimated time to complete: 30 minutes_
 
 - [x] Review this slide deck - [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
-- [ ] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+- [x] Review this "data scrollstory" - [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 - [ ] Check out this "data scrollstory" - [The Pixar Story](https://pixar-scroll-tale.lovable.app/)
 - [ ] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
 - [ ] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
